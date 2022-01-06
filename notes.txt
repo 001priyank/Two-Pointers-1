@@ -1,0 +1,13 @@
+2) Two pointer technique
+removing the nested operations
+low & high
+
+
+ two sum
+1) hashing
+2) sort + two pointer
+3) sort + binary search
+
+three sum
+1) brute force
+2) sort + two pointer
